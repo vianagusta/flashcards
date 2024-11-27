@@ -23,3 +23,15 @@ criaCartao(
     'Como se diz oi em inglês?',
     'Oi em inglês é HI (RAI)'
 )
+
+criaCartao(
+    'Tecnologia',
+    'Quem é o criador da Mircrosoft?',
+    'O criador da Microsoft é Bill Gates'
+)
+
+criaCartao(
+    'Biologia',
+    'Quantos ossos tem o corpo humano?',
+    'O corpo humano tem 206 ossos'
+)
